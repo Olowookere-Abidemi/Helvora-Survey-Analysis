@@ -1,9 +1,28 @@
 # Helvora-Survey-Analysis
 This report provides an in-depth analysis of survey data collected from a personal group on an online medical healthcare platform, Helvora. The data focused on demographic insights, challenges in healthcare accessibility, preferences for telemedicine
 
-Demographic Dashboard                                                                 |  App Fearures Dashboard
-:------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:
-![](https://github.com/Olowookere-Abidemi/Helvora-Survey-Analysis/blob/main/Demographic%20Dashboard.png) | ![](https://github.com/Olowookere-Abidemi/Helvora-Survey-Analysis/blob/main/App%20fatures%20Dashboard.png)
+## Dashboards
+
+### **Demographic Dashboard**  
+Provides insights into the demographic distribution of the surveyed group, including age, gender, and regional representation.
+
+### **App Features Dashboard**  
+Highlights user preferences, challenges in healthcare accessibility, and desired features for telemedicine platforms.
+
+---
+
+### **Dashboard Previews**
+
+#### Demographic Dashboard                                                    
+ 
+![Demographic Dashboard](https://github.com/Olowookere-Abidemi/Helvora-Survey-Analysis/blob/main/Demographic%20Dashboard.png) 
+
+#### App Features Dashboard 
+
+ ![App Features Dashboard](https://github.com/Olowookere-Abidemi/Helvora-Survey-Analysis/blob/main/App%20fatures%20Dashboard.png)
+
+---
+
 
 
 ## Introduction
